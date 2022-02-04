@@ -22,7 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   #### This is how my solution looks:
 ![Solution screenshot](https://user-images.githubusercontent.com/92770591/152485655-977427bb-9236-4fc7-824d-8d1bbb468327.png)
 
-
+### Links
+  ![Link to the solution](https://corviel.github.io/first-challenge-solution/)
 
 ## My process
   
