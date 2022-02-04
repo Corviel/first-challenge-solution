@@ -36,8 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-  I'm very proud to say that i learned at least enough about flexboxes to create this card. Although it's a very basic code it made me see Flexbox in a very easy way.
-  Also proud to say that mostly all of the code that i used to do this was new to me, i can say i am very happy with my progres. I literally just learned what flexbox is.
+  I'm very proud to say that i learned at least enough about flexboxes to create this card. Although it's a very basic code, it made me see Flexbox in a very easy way.
+  Also proud to say that mostly all of the code that i used to do this was new to me, i can say i am very happy with my progress. I literally just learned what flexbox is.
 
 ### Useful resources
 
