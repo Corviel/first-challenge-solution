@@ -5,12 +5,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
   - [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
   - [Author](#author)
 
 ## Overview
@@ -18,14 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   This is my first challenge on my HTML and CSS journey to become a web developer! Yay! 🔥
 
 ### Screenshot
-  
-  This is how my solution looks:
-![My solution](./images/screenshot.png)
+  #### This is the challenge:
+![Challenge Screenshot](https://user-images.githubusercontent.com/92770591/152486024-e2b2218e-c851-4ad7-b338-06bdf2ab3821.png)
+  #### This is how my solution looks:
+![Solution screenshot](https://user-images.githubusercontent.com/92770591/152485655-977427bb-9236-4fc7-824d-8d1bbb468327.png)
 
 
-### Links
-
-  - Solution URL: [Add solution URL here](https://github.com/Corviel/first-challenge-solution)
 
 ## My process
   
@@ -40,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
   I'm very proud to say that i learned at least enough about flexboxes to create this card. Although it's a very basic code it made me see Flexbox in a very easy way.
-  Also proud to say that mostly all of the code that i used to do this was new to me, i can say i am very happy with my progres. I literally just learned what flexbox was.
+  Also proud to say that mostly all of the code that i used to do this was new to me, i can say i am very happy with my progres. I literally just learned what flexbox is.
 
 ### Useful resources
 
