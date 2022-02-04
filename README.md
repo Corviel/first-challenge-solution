@@ -49,5 +49,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-  - Website - [Corviel](https://github.com/Corviel)
+  - Github - [Corviel](https://github.com/Corviel)
   - Twitter - [@Corviel](https://www.twitter.com/Corviel)
