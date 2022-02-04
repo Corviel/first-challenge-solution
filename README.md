@@ -22,9 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   #### This is how my solution looks:
 ![Solution screenshot](https://user-images.githubusercontent.com/92770591/152485655-977427bb-9236-4fc7-824d-8d1bbb468327.png)
 
-### Links
-  ![Link to the solution](https://corviel.github.io/first-challenge-solution/)
-
 ## My process
   
   Dove head first without knowing most of what i would do. I basically just knew i had to use some spacing (padding) between the elements that i planned to put together on a div. One would be the QR code img, the other two would be text. That's all i thought going in and i'm very proud i figured out all of it without looking up the solution. This was my first challenge!
